@@ -4,20 +4,20 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      
     
         <h1>
         Weather App
         </h1>
         <a
           className="Weather-App-link"
-          href="https://reactjs.org"
+          href="https://github.com/mlameb1/my-react-weather-app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          E Mlambo open-sourced GitHub link
         </a>
-      </header>
+      
     </div>
   );
 }
